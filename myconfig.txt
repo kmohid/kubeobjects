@@ -1,0 +1,4 @@
+## This file contains the config variables required for my application
+
+DBUSER: Smith
+DBPWD: zxtuwxy2nr3
